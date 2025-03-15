@@ -58,7 +58,7 @@ const Navbar = () => {
                       : "none",
                 }}
               >
-                Dashboard
+                {/* Dashboard
               </Link>
               <Link
                 to="/flashcards"
@@ -71,7 +71,7 @@ const Navbar = () => {
                       ? "2px solid white"
                       : "none",
                 }}
-              >
+              > */}
                 Study
               </Link>
             </div>

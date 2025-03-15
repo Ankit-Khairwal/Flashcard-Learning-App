@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Card -->
+  <rect x="56" y="56" width="400" height="400" rx="20" fill="#ffffff" stroke="#22c55e" stroke-width="16"/>
+  
+  <!-- Card Content -->
+  <rect x="96" y="136" width="320" height="40" rx="8" fill="#22c55e" opacity="0.2"/>
+  <rect x="96" y="196" width="240" height="40" rx="8" fill="#22c55e" opacity="0.2"/>
+  <rect x="96" y="256" width="320" height="40" rx="8" fill="#22c55e" opacity="0.2"/>
+  
+  <!-- Question Mark -->
+  <path d="M256 160 Q296 160 296 200 Q296 230 256 230 Q256 260 256 280" stroke="#22c55e" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="256" cy="320" r="12" fill="#22c55e"/>
+</svg> 
